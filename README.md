@@ -17,3 +17,18 @@ This project presents an interactive Myntra Sales Analysis Dashboard built using
 - DAX (Data Analysis Expressions)
 - Data Modeling
 - Interactive Visualizations
+
+
+
+## Dataset
+<a herf="https://github.com/indhuindhu6302-bit/myntra-sales-analysis-power-bi-/blob/main/Myntra_10000_Rows_Dataset%20(1).xlsx">(dataset</a>)
+
+## Key KPIs
+- Total Revenue
+- Total Orders
+- Average Order Value
+- Profit
+- Customers
+- Sales Growth
+
+## Dashboard
