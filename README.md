@@ -34,5 +34,5 @@ This project presents an interactive Myntra Sales Analysis Dashboard built using
 ## Dashboard
 
 <a herf="https://github.com/indhuindhu6302-bit/myntra-sales-analysis-power-bi-/blob/main/Screenshot%202026-06-27%20150437.png">(Dashboard</a>)
-<a herf="
+<a herf="https://github.com/indhuindhu6302-bit/myntra-sales-analysis-power-bi-/blob/main/Screenshot%202026-06-27%20150456.png">(Dashboard</a>)
 <a herf="
