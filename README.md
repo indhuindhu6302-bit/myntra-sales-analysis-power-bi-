@@ -33,3 +33,25 @@ This project presents an interactive Myntra Sales Analysis Dashboard built using
 
 ## Dashboard
 
+<a herf ="https://github.com/indhuindhu6302-bit/myntra-sales-analysis-power-bi-/blob/main/myntra%20sales%20analysis.pbix">(Dashboard</a>)
+
+## Process
+- Collected and cleaned the Myntra sales dataset using Power Query.
+- Transformed the data and created relationships between tables in Power BI.
+- Developed DAX measures to calculate KPIs like Revenue, Profit, Orders, and Average Order Value.
+- Designed interactive dashboards with charts, slicers, maps, and KPI cards for analysis.
+- Analyzed the results to identify sales trends, customer behavior, and business insights for better decision-making.
+
+  ## Dahboard screenshot
+<img width="1162" height="653" alt="Screenshot 2026-06-27 150437" src="https://github.com/user-attachments/assets/4987778c-d549-4650-8933-5198fb4759af" />
+
+
+## Business Insights
+- Identified top-selling categories and brands.
+- Analyzed monthly sales trends.
+- Measured customer purchasing behavior.
+- Evaluated regional sales performance.
+- Tracked revenue and profitability across products.
+
+## Conclusion
+The Myntra Sales Analysis Dashboard demonstrates how Power BI can transform raw sales data into meaningful business insights through interactive visualizations and KPI tracking. By analyzing sales performance, customer behavior, product trends, and regional performance, the dashboard supports data-driven decision-making. This project showcases practical skills in Power BI, Power Query, DAX, data modeling, and dashboard design, making it a strong portfolio project for aspiring Data Analysts and Business Intelligence professionals.
