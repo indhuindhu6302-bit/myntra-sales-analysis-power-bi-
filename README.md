@@ -44,6 +44,10 @@ This project presents an interactive Myntra Sales Analysis Dashboard built using
 
   ## Dahboard screenshot
 <img width="1162" height="653" alt="Screenshot 2026-06-27 150437" src="https://github.com/user-attachments/assets/4987778c-d549-4650-8933-5198fb4759af" />
+<img width="1165" height="661" alt="Screenshot 2026-06-27 150456" src="https://github.com/user-attachments/assets/44d9c71d-3d1d-4996-8a70-0d20da7b9d9a" />
+<img width="1156" height="652" alt="Screenshot 2026-06-27 150541" src="https://github.com/user-attachments/assets/c8f7e4cf-3a64-4c3f-bd7a-3c770b865a8f" />
+
+
 
 
 ## Business Insights
